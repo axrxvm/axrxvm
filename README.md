@@ -1,5 +1,7 @@
 <p align="center">
+  <a href="https://itzaarav.netlify.app/">
   <img src="https://github.com/axrxvm/axrxvm/blob/main/image.png?raw=true" alt="alt text">
+  </a>
 </p>
 <p align="center">
   <a href="https://discord.gg/7MQczhh2pS" target="_blank">
